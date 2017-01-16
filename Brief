@@ -1,0 +1,7 @@
+The Singleton Pattern ensures a class has only one
+instance, and provides a global point of access to it.
+
+In this example, we create a PiggyBank class that uses the
+Singleton Pattern in order to make sure that only one
+instance of piggy bank is created. Where it is used to
+access the piggy bank, and then take or add money.
